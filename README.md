@@ -1,2 +1,2 @@
 # spotify-clone
-Fullstack Spotify clone project
+Fullstack Spotify clone project for studies purpose using MERN stack.
